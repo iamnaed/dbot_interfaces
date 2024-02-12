@@ -1,0 +1,8 @@
+# Request
+string job
+---
+# Result
+bool success
+---
+# Feedback
+float64[6] joints
